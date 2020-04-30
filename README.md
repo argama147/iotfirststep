@@ -13,13 +13,12 @@
 本リポジトリには、Linkingのライブラリ「sdaiflib.jar」は登録していません。
 [Project Linkingのサイト](https://linkingiot.com/developer/api.html)の「SDKおよびダウンロード」からダウンロードして入手してください。
 
-#技術同人誌について
-[BOOTH](https://eugo.booth.pm/)にて販売しています。
-
 #連絡先
 サンプルについて何か問題等ありましたら、[Twitterアカウント](https://twitter.com/argama147)にご連絡ください。
 
 # 書籍情報
+
+<img src="https://s2.booth.pm/7287bb46-6dfb-43c3-94bd-827bc1141389/i/1312558/5076f294-6128-46aa-8fe9-a6b87ded2742_base_resized.jpg" width="320px">
 
 下記のサイトで取り扱っています。
 ## BOOTH

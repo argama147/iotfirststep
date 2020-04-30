@@ -1,20 +1,29 @@
-# ���̃��|�W�g���ɂ���
-���̃��|�W�g���́A�T�[�N���u�G�D�[�S�v���쐬���A�Z�p���T�U�ŏ��Еz����Z�p���l���u�ƒ�ŋC�y�Ɏn�߂�IoT����v�̃T���v���R�[�h�̓o�^�ꏊ�ł��B
+# このリポジトリについて
+このリポジトリは、サークル「エゥーゴ」が作成し、技術書典６で初頒布する技術同人誌「家庭で気軽に始めるIoT入門」のサンプルコードの登録場所です。
 
-# ����m�F��
-�{�T���v���́A���L�̊��œ���m�F���s���Ă��܂��B
+# 動作確認環境
+本サンプルは、下記の環境で動作確認を行っています。
 
-- �[���FSO-02J�iAndroid Version�F8.0�j
-- Android Studio�F3.3.2
-- Gradle Version�F4.10.1
-- Android Plugin Version�F3.3.2
+- 端末：SO-02J（Android Version：8.0）
+- Android Studio：3.3.2
+- Gradle Version：4.10.1
+- Android Plugin Version：3.3.2
 
-# Linking�̃��C�u�����ɂ���
-�{���|�W�g���ɂ́ALinking�̃��C�u�����usdaiflib.jar�v�͓o�^���Ă��܂���B
-[Project Linking�̃T�C�g](https://linkingiot.com/developer/api.html)�́uSDK����у_�E�����[�h�v����_�E�����[�h���ē��肵�Ă��������B
+# Linkingのライブラリについて
+本リポジトリには、Linkingのライブラリ「sdaiflib.jar」は登録していません。
+[Project Linkingのサイト](https://linkingiot.com/developer/api.html)の「SDKおよびダウンロード」からダウンロードして入手してください。
 
-#�Z�p���l���ɂ���
-[BOOTH](https://eugo.booth.pm/)�ɂĔ̔����Ă��܂��B
+#技術同人誌について
+[BOOTH](https://eugo.booth.pm/)にて販売しています。
 
-#�A����
-�T���v���ɂ��ĉ�����蓙����܂�����A[Twitter�A�J�E���g](https://twitter.com/argama147)�ɂ��A�����������B
+#連絡先
+サンプルについて何か問題等ありましたら、[Twitterアカウント](https://twitter.com/argama147)にご連絡ください。
+
+# 書籍情報
+
+下記のサイトで取り扱っています。
+## BOOTH
+https://eugo.booth.pm/items/1312558
+
+## とらのあな
+https://ec.toranoana.shop/tora/ec/item/040030776744

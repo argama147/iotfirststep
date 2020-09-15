@@ -27,4 +27,6 @@ https://eugo.booth.pm/items/1312558
 ## とらのあな
 https://ec.toranoana.shop/tora/ec/item/040030776744
 
-[[サポートページ|SupportPage]]
+# サポート
+
+[サポートページ](https://github.com/argama147/iotfirststep/wiki/SupportPage)

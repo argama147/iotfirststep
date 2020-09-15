@@ -32,6 +32,10 @@ https://eugo.booth.pm/items/1312558
 ## とらのあな
 https://ec.toranoana.shop/tora/ec/item/040030776744
 
+# おまけ
+・「OK,google おやすみなさい」 → 消灯
+動作している動画はこちら -> https://www.instagram.com/p/CFKOowvD7mb/?igshid=1lz2b04m26866
+
 # サポート
 
 [サポートページ](https://github.com/argama147/iotfirststep/wiki/SupportPage)
